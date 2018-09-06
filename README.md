@@ -3,7 +3,7 @@
 ## What are all these files?
 <p>
 
-`modular_rl_higher` contains a forked copy of John Schulman's repository implementing TRPO <a href="https://github.com/joschu/modular_rl" target="_blank">here</a>, with a working CartPole example.
+`modular_rl_higher` contains a forked copy of John Schulman's repository implementing TRPO <a href="https://github.com/joschu/modular_rl" target="_blank">here</a>, with a working CartPole example. Note a few of the dependencies were incorrect in Schulman's readme.
 
 </p>
 <p>
